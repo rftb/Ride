@@ -1,0 +1,9 @@
+.hide, p.hide-if-no-customize {
+  display: none;
+}
+#adminLogo {
+  position: absolute;
+  right: -84px;
+  top: 35px;
+  height: 50px;
+}
