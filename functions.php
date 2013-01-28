@@ -598,7 +598,7 @@ add_action('save_post', 'save_homepage_meta');
 // example custom dashboard widget
 function dash_widget_plugin_list() { ?>
     <ul>
-        <li><a href='plugin-install.php?tab=search&s=meta-box+API'>Meta-box </a></li>
+        <li><a href='plugin-install.php?tab=search&s=advanced-custom-fields'>Advanced Custom Fields </a></li>
         <li><a href='plugin-install.php?tab=search&s=TinyMCE Advanced'>TinyMCE Advanced </a></li>
         <li><a href='plugin-install.php?tab=search&type=term&s=Contact+Form+7'>Contact Form 7 </a></li>
         <li><a href='plugin-install.php?tab=search&type=term&s=Members+Only'>Members Only</a></li>
